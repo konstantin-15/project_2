@@ -48,7 +48,6 @@ body {
     padding: 0px 15px 0px 15px;
 }
 .header {
-	width: 100vw;
 	height: 100vh;
 	padding-top: 17px;
 	background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), url("../images/header/bg.jpg") 0 0 / cover no-repeat;
@@ -256,10 +255,12 @@ body {
 .download__title {
 	margin-bottom: 24px;
 	max-width: 445px;
+	color: #FFFFFF;
 }
 .download__text {
 	margin-bottom: 40px;
 	max-width: 445px;
+	color: #FFFFFF;
 }
 .app {
 	display: flex;
